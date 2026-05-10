@@ -7,6 +7,12 @@
 
 ### 🖼️ Дизайн та зображення
 * **NanoBanana Design:** [Скріншот](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_9rodlv9rodlv9rod.png),[Скріншот2](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_arqu1farqu1farqu.png),[Скріншот3](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_r4q2d0r4q2d0r4q2.png)
+* Ітерація №1
+Промпт: "Create a design for a pet shop website called Puppy."
+Результат: Занадто загальний, мало деталей, незрозуміла структура.
+Ітерація №2 
+Промпт: "Act as a Senior UI/UX Designer (Role prompting). Create a complete website design for a pet store named 'Puppy'. Use a clean, modern style with friendly orange and blue accents (Style conditioning). The design MUST include: a hero section with a 'Shop Now' button, a navigation menu, categories for different animals, and a footer (Constraint-based instructions). Present both desktop and mobile layouts side-by-side (Structured formatting)."
+Пояснення покращень: Я додала роль експерта, чітко перелічила обов'язкові секції сайту та вказала конкретну кольорову гаму, щоб уникнути хаотичних кольорів.
 
 
 ### 🎵 Аудіо супровід
