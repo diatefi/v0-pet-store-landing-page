@@ -4,6 +4,7 @@
 
 ###🎥 Відео контент
 * **YouTube Promo Video:** [Дивитися промо-відео](https://youtu.be/RIFwXcKGP8U)
+* Промпт: "A cinematic 8-second commercial for a pet brand named 'PUPPY'. The video features a joyful golden retriever puppy running towards the camera across a lush green park on a bright, sunny day. The camera uses a smooth, low-angle tracking shot to capture the puppy's energy. In the final 2 seconds, a clean, modern graphic overlay appears in the center with the bold text 'PUPPY' and a vibrant orange button below it saying 'Shop Now'. High-quality 4K, professional lighting, warm and friendly atmosphere."
 
 ### 🖼️ Дизайн та зображення
 * **NanoBanana Design:** [Скріншот](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_9rodlv9rodlv9rod.png),[Скріншот2](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_arqu1farqu1farqu.png),[Скріншот3](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_r4q2d0r4q2d0r4q2.png)
