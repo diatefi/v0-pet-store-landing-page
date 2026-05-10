@@ -6,7 +6,7 @@
 * **YouTube Promo Video:** [Дивитися промо-відео](https://youtu.be/RIFwXcKGP8U)
 
 ### 🖼️ Дизайн та зображення
-* **NanoBanana Design:** [Скріншот](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_9rodlv9rodlv9rod.png?raw=true),[Скріншот2](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_arqu1farqu1farqu.png?raw=true),[Скріншот3](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_r4q2d0r4q2d0r4q2.png?raw=true)
+* **NanoBanana Design:** [Скріншот](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_9rodlv9rodlv9rod.png),[Скріншот2](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_arqu1farqu1farqu.png?raw=true),[Скріншот3](https://github.com/diatefi/v0-pet-store-landing-page/blob/main/Gemini_Generated_Image_r4q2d0r4q2d0r4q2.png?raw=true)
 * **Project Assets:** [Логотип та іконки](посилання_на_інші_зображення)
 
 ### 🎵 Аудіо супровід
