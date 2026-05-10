@@ -113,7 +113,7 @@ export function Footer() {
                 placeholder="Enter your address"
                 className="flex-1 rounded-full bg-white border-border"
               />
-              <Button className="bg-primary hover:bg-primary/90 text-primary-foreground rounded-full px-6">
+              <Button className="bg-primary hover:bg-primary/90 text-primary-foreground rounded-full px-6 transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-primary/30">
                 Subscribe
               </Button>
             </div>
