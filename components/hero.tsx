@@ -25,7 +25,7 @@ export function Hero() {
             </p>
             <Button 
               size="lg" 
-              className="mt-6 bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-3 rounded-full"
+              className="mt-6 bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-3 rounded-full animate-bounce hover:animate-none transition-transform hover:scale-105"
             >
               SHOP NOW
             </Button>
