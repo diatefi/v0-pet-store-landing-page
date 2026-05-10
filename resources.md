@@ -19,5 +19,8 @@
 ### 🎵 Аудіо супровід
 * **Suno AI Music:** [Слухати промо-трек](https://suno.com/s/vEGllQBanshHXpIw)
 * ця пісня підходить тому що вона весела і енергічна, як і наші улюбленці
-
+* Промпт: Style: Acoustic Pop, Upbeat, Joyful.
+Mood: Warm, friendly, energetic, sun-drenched, optimistic.
+Instrumentation: Bright acoustic guitar strumming, playful melodic piano, light percussion (shakers and tambourine), subtle happy whistling.
+Technical: High production quality, cinematic feel, instrumental only, NO vocals.
 
